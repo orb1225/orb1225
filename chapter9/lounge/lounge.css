@@ -1,0 +1,40 @@
+body {
+    font-size: small;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    line-height: 1.6em;
+    }
+h1, h2 {
+    color: #007e7e;
+    }
+h1 {
+    font-size: 150%;
+    }
+h2 {
+    font-size: 130%;
+    }
+
+
+#gurantee {
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: white;
+    background-color: #a7cece;
+    padding:  25px;/*设置内边距*/
+    padding-left: 80px;/*只在左边增加内边距*/
+    margin: 30px; /*设置外边距*/
+    margin-right:250px;/*只增加右外边距为250px*/
+    font-style: italic;/*斜体*/
+    color: #444444 ;/*字体颜色*/
+    font-family: Georgia, "Times New Roman", Times, serif;
+    line-height: 1.9em;
+    background-image: url(images/background.gif);/*设置背景图像*/
+    background-repeat: no-repeat;
+    background-position: top left;
+    /* border-radius: 40px; */
+    /* border-top-left-radius: 30px; */
+    /* border-top-right-radius: 2em;
+    border-bottom-left-radius: 2em ; */
+    /* border-bottom-right-radius:40px ; */
+    
+}
